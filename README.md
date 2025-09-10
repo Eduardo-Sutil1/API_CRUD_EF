@@ -3,17 +3,20 @@
 Este é o meu primeiro projeto de CRUD utilizando **ASP.NET Core** com **Entity Framework Core**. O objetivo principal foi aprender e aplicar os conceitos básicos de criação de APIs com C#, além de realizar a integração com um banco de dados relacional o **SQL Server**.
 
 <div align="center">
-    <img width="650px" height="650px" alt="Image" src="https://github.com/user-attachments/assets/8e3e971e-8354-4f46-8b6e-f0fe56854541" />
+    <img width="650px" height="650px" alt="Image" src="https://github.com/Eduardo-Sutil1/API_CRUD_EF/blob/main/img/Swagger.PNG" />
 </div>
 
 <div align="center">
-        <img width="650px" height="650px" alt="Image" src="https://github.com/user-attachments/assets/b66c21c7-3061-43f0-8206-9a6e20a34459" />
+        <img width="650px" height="650px" alt="Image" src="https://github.com/Eduardo-Sutil1/API_CRUD_EF/blob/main/img/GetObterPorNome.PNG" />
 </div>
 
 <div align="center">
-    <img width="650px" height="650px" alt="Image" src="https://github.com/user-attachments/assets/de7877da-a197-4d76-b6ee-435b8fa1e847" />
+    <img width="650px" height="650px" alt="Image" src="https://github.com/Eduardo-Sutil1/API_CRUD_EF/blob/main/img/Migrations.PNG" />
 </div>
 
+<div align="center">
+    <img width="650px" height="650px" alt="Image" src="https://github.com/Eduardo-Sutil1/API_CRUD_EF/blob/main/img/Entity.PNG" />
+</div>
 
 ## 🚀 O que foi feito
 
